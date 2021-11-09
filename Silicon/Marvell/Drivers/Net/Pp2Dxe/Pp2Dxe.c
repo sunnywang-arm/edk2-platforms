@@ -685,6 +685,7 @@ Pp2SnpShutdown (
     }
   }
 
+  This->Mode->State = EfiSimpleNetworkStarted;
   ReturnUnlock (SavedTpl, EFI_SUCCESS);
 }
 
