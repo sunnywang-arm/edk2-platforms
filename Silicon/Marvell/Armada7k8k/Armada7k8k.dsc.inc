@@ -387,7 +387,6 @@
   # SMBIOS/DMI
   gEfiMdeModulePkgTokenSpaceGuid.PcdSmbiosDocRev|0x0
   gEfiMdeModulePkgTokenSpaceGuid.PcdSmbiosEntryPointProvideMethod|0x2
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSmbiosVersion|0x0302
   gMarvellTokenSpaceGuid.PcdFirmwareVersion|"EDK2 SH 1.1"
 
   # TRNG
